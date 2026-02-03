@@ -16,11 +16,11 @@ Open this repository as a Codespace on GitHub.
 
 - Generate some basic copy for a weather forecast that we can use to add to the page.  Using a prompt similar to this:
 
-    `Generate copy for a 7 day weather forecast for Ithaca, NY.  Text only.  No HTML or CSS code.  Place the copy in chatty.txt`
+    `Generate copy for a 7 day weather forecast for Ithaca, NY.  Text only.  No HTML or CSS code.`
 
 - Structure the copy.  Using a prompt similar to this:
 
-    `Structure the copy in chatty.txt.  HTML code only.  No CSS code.  Add this to chatty.html`
+    `Structure the copy in chatty.txt.  HTML code only.  No CSS code.`
 
     Notice it provides lots of stuff we have not learned (or need).  Strip that out.
     
